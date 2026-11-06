@@ -1,0 +1,60 @@
+{
+  "pages": {
+    "/(roles)/admin/audit/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/admin/audit/page.js"
+    ],
+    "/(roles)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/login/page.js"
+    ],
+    "/(roles)/sao/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/sao/page.js"
+    ],
+    "/(roles)/sao/discipline/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/sao/discipline/page.js"
+    ],
+    "/(roles)/sao/clearances/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/sao/clearances/page.js"
+    ],
+    "/(roles)/admin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/admin/page.js"
+    ],
+    "/(roles)/registrar/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/registrar/page.js"
+    ],
+    "/(roles)/registrar/records/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/registrar/records/page.js"
+    ],
+    "/(roles)/registrar/transcripts/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(roles)/registrar/transcripts/page.js"
+    ]
+  }
+}

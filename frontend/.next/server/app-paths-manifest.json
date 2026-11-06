@@ -1,0 +1,11 @@
+{
+  "/login/page": "app/login/page.js",
+  "/(roles)/sao/page": "app/(roles)/sao/page.js",
+  "/(roles)/admin/audit/page": "app/(roles)/admin/audit/page.js",
+  "/(roles)/sao/discipline/page": "app/(roles)/sao/discipline/page.js",
+  "/(roles)/sao/clearances/page": "app/(roles)/sao/clearances/page.js",
+  "/(roles)/admin/page": "app/(roles)/admin/page.js",
+  "/(roles)/registrar/page": "app/(roles)/registrar/page.js",
+  "/(roles)/registrar/records/page": "app/(roles)/registrar/records/page.js",
+  "/(roles)/registrar/transcripts/page": "app/(roles)/registrar/transcripts/page.js"
+}
